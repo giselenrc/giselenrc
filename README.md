@@ -1,4 +1,4 @@
-### Olá pessoal, sejam bem vindo! 👋
+### Olá pessoal, sejam bem vindos! 👋
 
 ## Quem sou eu ? 
 
