@@ -8,7 +8,7 @@ Atualmente atuo no desenvolvimento de aplicações com Oracle Forms e PL/Sql, po
 No momento estou buscando me atualizar em Java e aprender novas tecnologias e linguagens, como por exemplo, Python e AWS. 
 
 
-## Para me conhecer um pouco mais, segue abaixo meu perfil no Linkedin 
+## Para conhecer um pouco mais da minha trajetória profissional, segue abaixo meu perfil no Linkedin 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gisele-nair-17024a17/)
 
