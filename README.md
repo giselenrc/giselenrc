@@ -1,8 +1,8 @@
-### Olá pessoal, sejam bem vindos! 👋
+### Olá pessoal, me chamo Gisele. Sejam bem vindos! 👋
 
 ## Quem sou eu ? 
 
-Meu nome é Gisele e trabalho com Análise e Desenvolvimento de softwares há aproximadamente 19 anos. 
+Trabalho com Análise e Desenvolvimento de softwares há aproximadamente 19 anos. 
 Sou graduada em Tecnologia em Processamento de Dados e possuo pós graduação em Engenharia de Softwares com JEE.
 Atualmente atuo no desenvolvimento de aplicações com Oracle Forms e PL/Sql, porém já atuei também com Java, .Net e Sql Server, entre outras linguagens.
 No momento estou buscando me atualizar em Java e aprender novas tecnologias e linguagens, como por exemplo, Python e AWS. 
