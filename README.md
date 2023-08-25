@@ -14,7 +14,12 @@ No momento estou buscando me atualizar em Java e aprender novas tecnologias e li
 
 
 ### Principal Repositório
-[![Bootcampo Desenvolvimento Java AWS](https://github-readme-stats.vercel.app/api/pin/?username=giselenrc&repo=dio.desenvolvimento.java.aws.cloud&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/CientistaPY/dio-curso-git-github.git)
+[![Bootcampo Desenvolvimento Java AWS](https://github-readme-stats.vercel.app/api/pin/?username=giselenrc&repo=dio.desenvolvimento.java.aws.cloud&theme=midnight-purple)](https://github.com/CientistaPY/dio-curso-git-github.git)
 
 
-
+### Estatísticas Github
+<div>
+<a href="https://github.com/giselenrc">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giselenrc&layout=compact&langs_count=7&theme=midnight-purple"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=giselenrc&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+</div>
