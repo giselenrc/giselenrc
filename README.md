@@ -13,10 +13,14 @@ No momento estou buscando me atualizar em Java e aprender novas tecnologias e li
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gisele-nair-17024a17/)
 
 
-## Principais Repositórios
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=giselenrc&repo=dio.desenvolvimento.java.aws.cloud&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/giselenrc/dio.desenvolvimento.java.aws.cloud)
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=giselenrc&repo=dio-lab-open-source&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/giselenrc/dio-lab-open-source)
+<h3 align="left">💻 GitHub Stats</h3>
+<p align="center">
+  <a href="https://github.com/Jurredr/github-widgetbox">
+     <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=giselenrc&data=followers,repositories,stars,commits&theme=aether" alt="GitHub WirdgetBox" />     
+  </a>
+  <a href="https://github.com/vitorkol/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="giselenrc's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=giselenrc&theme=monokai-metallian&hide_border=true"/>
+  </a>
+</p>
 
 
