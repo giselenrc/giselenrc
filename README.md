@@ -1,6 +1,9 @@
-### Olá pessoal, me chamo Gisele. Sejam bem vindos! 👋
 
-## Quem sou eu ? 
+
+# Olá pessoal, me chamo Gisele. Sejam bem vindos! ![image](https://github.com/giselenrc/giselenrc/assets/13739126/516b27b9-7669-4429-9ecd-25315d8b61be)
+
+
+  ## Quem sou eu ? 
 
 Trabalho com Análise e Desenvolvimento de softwares há aproximadamente 19 anos. 
 Sou graduada em Tecnologia em Processamento de Dados e possuo pós graduação em Engenharia de Softwares com JEE.
