@@ -15,11 +15,6 @@ No momento estou buscando me atualizar em Java e aprender novas tecnologias e li
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/gisele-nair-17024a17/)
 
-
-### Principal Repositório
-[![Bootcampo Desenvolvimento Java AWS](https://github-readme-stats.vercel.app/api/pin/?username=giselenrc&repo=dio.desenvolvimento.java.aws.cloud&theme=midnight-purple)](https://github.com/CientistaPY/dio-curso-git-github.git)
-
-
 ### Estatísticas Github
 <div>
 <a href="https://github.com/giselenrc">
